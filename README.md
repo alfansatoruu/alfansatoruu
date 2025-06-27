@@ -3,19 +3,6 @@
 <div align="center">
 </div>
 
-<div align="center">
-  <lottie-player 
-    src="https://lottie.host/a77fd643-d2b0-436b-aff5-01ccd47bc35c/rM3btSQoic.lottie" 
-    background="transparent"  
-    speed="1"  
-    style="width: 350px; height: 350px;"  
-    loop  
-    autoplay>
-  </lottie-player>
-</div>
-
----
-
 ## 🚀 About Me
 
 Saya adalah seorang **Creative Developer** yang passionate dalam menciptakan **pengalaman digital yang menakjubkan**. Dengan keahlian di berbagai teknologi modern, saya selalu berusaha menggabungkan **kreativitas** dan **teknologi** untuk menghasilkan solusi yang inovatif dan user-friendly.
