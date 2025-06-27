@@ -101,7 +101,6 @@ Website portfolio interaktif dengan elemen 3D, animasi smooth, dan design yang f
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfansatoruu/portfolio-website-satoru)
 [![Live](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://alfansatoruu.github.io/portfolio-website-satoru/)
 
-
 ---
 
 ### 📊 Data Analytics Dashboard
