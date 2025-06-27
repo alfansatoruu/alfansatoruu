@@ -237,12 +237,3 @@ Website portfolio interaktif dengan elemen 3D, animasi smooth, dan design yang f
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Have%20a%20great%20day!&descAlignY=80&descAlign=50" />
-</div>
