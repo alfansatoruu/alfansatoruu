@@ -57,7 +57,6 @@ Saya adalah seorang **Creative Developer** yang passionate dalam menciptakan **p
 - **Flutter** development dengan performa tinggi
 - **Cross-platform** solutions
 - **State Management** (Provider, Bloc, Riverpod)
-- **Native integrations** dan plugins
 - **UI/UX** implementation yang responsive
 
 </td>
