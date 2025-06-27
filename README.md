@@ -25,4 +25,3 @@ graph TD;
     D --> H[Beautiful Interfaces];
     E --> I[Google Colab];
     E --> J[Python];
-    E --> K[Data Visualization];
