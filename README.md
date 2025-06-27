@@ -100,7 +100,6 @@ Website portfolio interaktif dengan elemen 3D, animasi smooth, dan design yang f
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]https://github.com/alfansatoruu/portfolio-website-satoru
 
-</div>
 
 ---
 
@@ -149,6 +148,8 @@ Model machine learning untuk klasifikasi gambar dengan akurasi tinggi menggunaka
 [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/drive/1abc123def456)
 
 ---
+
+</div>
 
 ## 📈 GitHub Stats
 
