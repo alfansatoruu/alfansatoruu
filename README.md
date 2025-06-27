@@ -93,13 +93,14 @@ Saya adalah seorang **Creative Developer** yang passionate dalam menciptakan **p
 
 <div align="center">
 
-### 🛒 E-Commerce Mobile App
-**Flutter • Firebase • UI/UX**
+### 🎨 3D Portfolio Website
+**React • Three.js • GSAP**
 
-Aplikasi mobile e-commerce yang lengkap dengan fitur keranjang belanja, payment gateway, dan sistem notifikasi real-time.
+Website portfolio interaktif dengan elemen 3D, animasi smooth, dan design yang futuristik.
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alvan/project1)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4081?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.alvan.ecommerce)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]https://github.com/alfansatoruu/portfolio-website-satoru
+
+</div>
 
 ---
 
@@ -118,7 +119,6 @@ Dashboard interaktif untuk visualisasi data real-time dengan berbagai chart dan 
 Aplikasi manajemen tugas dengan fitur drag & drop, reminder, dan sinkronisasi cloud untuk produktivitas maksimal.
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alvan/project3)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4081?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.alvan.taskmanager)
 
 ---
 
@@ -127,8 +127,7 @@ Aplikasi manajemen tugas dengan fitur drag & drop, reminder, dan sinkronisasi cl
 
 Aplikasi cuaca yang akurat dengan prediksi 7 hari, animasi weather yang menarik, dan location-based forecast.
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alvan/project4)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://weather-app-alvan.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfansatoruu)
 
 ---
 
@@ -137,8 +136,7 @@ Aplikasi cuaca yang akurat dengan prediksi 7 hari, animasi weather yang menarik,
 
 Aplikasi chat real-time dengan fitur grup chat, file sharing, emoji reactions, dan end-to-end encryption.
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alvan/project5)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4081?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.alvan.chat)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfansatoruu)
 
 ---
 
@@ -147,20 +145,8 @@ Aplikasi chat real-time dengan fitur grup chat, file sharing, emoji reactions, d
 
 Model machine learning untuk klasifikasi gambar dengan akurasi tinggi menggunakan deep learning dan CNN.
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alvan/project6)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfansatoruu)
 [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/drive/1abc123def456)
-
----
-
-### 🎨 3D Portfolio Website
-**React • Three.js • GSAP**
-
-Website portfolio interaktif dengan elemen 3D, animasi smooth, dan design yang futuristik.
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alvan/project7)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolio-3d-alvan.netlify.app)
-
-</div>
 
 ---
 
