@@ -40,7 +40,7 @@ Saya adalah seorang **Creative Developer** yang passionate dalam menciptakan **p
 ---
 
 ## 🎯 Expertise Areas
-
+<div align="center">
 <table>
 <tr>
 <td width="50%">
@@ -86,7 +86,7 @@ Saya adalah seorang **Creative Developer** yang passionate dalam menciptakan **p
 </td>
 </tr>
 </table>
-
+</div>
 ---
 
 ## 🏆 Featured Projects
