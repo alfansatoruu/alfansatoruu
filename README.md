@@ -120,6 +120,15 @@ Aplikasi manajemen tugas dengan fitur drag & drop, reminder, dan sinkronisasi cl
 
 ---
 
+### ✅ Website Portfolio Sederhana  
+**HTML • CSS • JavaScript**
+
+Sebuah website portfolio personal dengan tampilan modern dan responsif yang menampilkan informasi, proyek, serta kontak.  
+Dirancang untuk memudahkan presentasi diri secara profesional di dunia digital.
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfansatoruu/Me-portfolio)
+
+
 </div>
 
 ## 📈 GitHub Stats
