@@ -116,7 +116,6 @@ Aplikasi mobile e-commerce yang lengkap dengan fitur keranjang belanja, payment 
 Dashboard interaktif untuk visualisasi data real-time dengan berbagai chart dan filtering yang powerful.
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alvan/project2)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://analytics-dashboard-alvan.netlify.app)
 
 ---
 
