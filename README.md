@@ -92,8 +92,19 @@ Saya adalah seorang **Creative Developer** yang passionate dalam menciptakan **p
 ## 🏆 Featured Projects
 
 <div align="center">
+  
+### ✅ Website Portfolio Sederhana  
+**HTML • CSS • JavaScript**
 
-### 🎨 3D Portfolio Website
+Sebuah website portfolio personal dengan tampilan modern dan responsif yang menampilkan informasi, proyek, serta kontak.  
+Dirancang untuk memudahkan presentasi diri secara profesional di dunia digital.
+
+[![Live Demo](https://img.shields.io/badge/Live-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alfansatoruu.github.io/Me-portfolio)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://alfansatoruu.github.io/Me-portfolio/)
+
+
+
+### 🎨 3D Portfolio
 **React • Three.js • GSAP**
 
 Website portfolio interaktif dengan elemen 3D, animasi smooth, dan design yang futuristik.
@@ -119,15 +130,6 @@ Aplikasi manajemen tugas dengan fitur drag & drop, reminder, dan sinkronisasi cl
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfansatoruu/absensi-face_recognition)
 
 ---
-
-### ✅ Website Portfolio Sederhana  
-**HTML • CSS • JavaScript**
-
-Sebuah website portfolio personal dengan tampilan modern dan responsif yang menampilkan informasi, proyek, serta kontak.  
-Dirancang untuk memudahkan presentasi diri secara profesional di dunia digital.
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfansatoruu/Me-portfolio)
-
 
 </div>
 
