@@ -98,7 +98,7 @@ Saya adalah seorang **Creative Developer** yang passionate dalam menciptakan **p
 
 Website portfolio interaktif dengan elemen 3D, animasi smooth, dan design yang futuristik.
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]https://github.com/alfansatoruu/portfolio-website-satoru
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfansatoruu/portfolio-website-satoru)(https://github.com/alfansatoruu/style)
 
 
 ---
@@ -112,40 +112,12 @@ Dashboard interaktif untuk visualisasi data real-time dengan berbagai chart dan 
 
 ---
 
-### ✅ Task Management App
+### ✅ Aplikasi absensi berbasis face-recognition
 **Flutter • SQLite • Provider**
 
 Aplikasi manajemen tugas dengan fitur drag & drop, reminder, dan sinkronisasi cloud untuk produktivitas maksimal.
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alvan/project3)
-
----
-
-### 🌤️ Weather Forecast App
-**React • OpenWeather API • Geolocation**
-
-Aplikasi cuaca yang akurat dengan prediksi 7 hari, animasi weather yang menarik, dan location-based forecast.
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfansatoruu)
-
----
-
-### 💬 Real-time Chat App
-**Flutter • Socket.IO • Node.js**
-
-Aplikasi chat real-time dengan fitur grup chat, file sharing, emoji reactions, dan end-to-end encryption.
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfansatoruu)
-
----
-
-### 🤖 ML Image Classifier
-**Python • TensorFlow • Jupyter**
-
-Model machine learning untuk klasifikasi gambar dengan akurasi tinggi menggunakan deep learning dan CNN.
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfansatoruu)
-[![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/drive/1abc123def456)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfansatoruu/absensi-face_recognition)
 
 ---
 
