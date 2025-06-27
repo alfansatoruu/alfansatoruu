@@ -99,15 +99,16 @@ Saya adalah seorang **Creative Developer** yang passionate dalam menciptakan **p
 Website portfolio interaktif dengan elemen 3D, animasi smooth, dan design yang futuristik.
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfansatoruu/portfolio-website-satoru)
+[![Live](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://alfansatoruu.github.io/portfolio-website-satoru/)
+
 
 ---
 
 ### 📊 Data Analytics Dashboard
 **React • Chart.js • Python**
 
-Dashboard interaktif untuk visualisasi data real-time dengan berbagai chart dan filtering yang powerful.
+❌ *Maaf, project ini telah dihapus oleh pengguna dan tidak lagi tersedia untuk publik.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alvan/project2)
 
 ---
 
@@ -140,12 +141,11 @@ Aplikasi manajemen tugas dengan fitur drag & drop, reminder, dan sinkronisasi cl
 
 ## 🏅 Achievements & Certifications
 
-- 🎓 **Flutter Developer Certified** - Google
-- 🏆 **React Developer Certification** - Meta
-- 📊 **Data Science Specialization** - Johns Hopkins University
-- 🎨 **UI/UX Design Certificate** - Google
-- 🤖 **Machine Learning Certificate** - Stanford University
-- 🚀 **AWS Cloud Practitioner** - Amazon Web Services
+- 🎓 **Flutter Developer Certified** - Dicoding
+- 🏆 **React Developer Certification** - Dicoding
+- 📊 **Data Science Specialization** - Bisa.Ai
+- 🤖 **Machine Learning Certificate** - Bisa.Ai
+
 
 ---
 
@@ -166,7 +166,7 @@ Aplikasi manajemen tugas dengan fitur drag & drop, reminder, dan sinkronisasi cl
 
 🔭 **Currently working on:** Advanced Flutter animations and state management solutions
 
-🌱 **Learning:** Next.js, TypeScript, and advanced React patterns
+🌱 **Learning:** Dart, Pythone
 
 👯 **Looking to collaborate on:** Open source projects and innovative mobile/web applications
 
