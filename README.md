@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Alvan - Creative Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&height=70&lines=Creative+Developer+💡;Flutter+Enthusiast+📱;React+Developer+⚛️;UI%2FUX+Designer+🎨;Data+Analysis+Expert+📊;Tech+Innovation+Lover+🚀" alt="Typing SVG" />
 </div>
 
 <div align="center">
