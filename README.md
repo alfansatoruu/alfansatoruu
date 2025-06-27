@@ -4,7 +4,14 @@
 </div>
 
 <div align="center">
-  <img src="https://lottie.host/a77fd643-d2b0-436b-aff5-01ccd47bc35c/rM3btSQoic.lottie" width="350" />
+  <lottie-player 
+    src="https://lottie.host/a77fd643-d2b0-436b-aff5-01ccd47bc35c/rM3btSQoic.lottie" 
+    background="transparent"  
+    speed="1"  
+    style="width: 350px; height: 350px;"  
+    loop  
+    autoplay>
+  </lottie-player>
 </div>
 
 ---
