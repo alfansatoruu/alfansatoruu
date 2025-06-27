@@ -98,11 +98,7 @@ Saya adalah seorang **Creative Developer** yang passionate dalam menciptakan **p
 
 Website portfolio interaktif dengan elemen 3D, animasi smooth, dan design yang futuristik.
 
-<P>3D Tema computer</P> 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfansatoruu/portfolio-website-satoru)
-<P>3D Tema Lingkungan</P>
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfansatoruu/style)
-
 
 ---
 
