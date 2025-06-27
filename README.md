@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+  <img src="https://lottie.host/a77fd643-d2b0-436b-aff5-01ccd47bc35c/rM3btSQoic.lottie" width="350" />
 </div>
 
 ---
