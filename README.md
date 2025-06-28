@@ -193,7 +193,7 @@ Aplikasi manajemen tugas dengan fitur drag & drop, reminder, dan sinkronisasi cl
 **Let's build something amazing together!** 🚀
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=alvan&label=Profile%20views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/alvan?label=Follow&style=social)](https://github.com/alvan)
+[![GitHub followers](https://img.shields.io/github/followers/alfansatoruu?label=Follow&style=social)](https://github.com/alfansatoruu)
 
 </div>
 
