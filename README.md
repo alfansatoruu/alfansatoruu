@@ -99,7 +99,7 @@ Saya adalah seorang **Creative Developer** yang passionate dalam menciptakan **p
 Sebuah website portfolio personal dengan tampilan modern dan responsif yang menampilkan informasi, proyek, serta kontak.  
 Dirancang untuk memudahkan presentasi diri secara profesional di dunia digital.
 
-[![Live Demo](https://img.shields.io/badge/Live-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alfansatoruu.github.io/Me-portfolio)
+[![Live Demo](https://img.shields.io/badge/Live-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-alvan.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://alfansatoruu.github.io/Me-portfolio/)
 
 
