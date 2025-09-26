@@ -106,14 +106,6 @@ Website portfolio interaktif dengan elemen 3D, animasi smooth, dan design yang f
 
 ---
 
-### 📊 Data Analytics Dashboard
-**React • Chart.js • Python**
-
-❌ *Maaf, project ini telah dihapus oleh pengguna dan tidak lagi tersedia untuk publik.*
-
-
----
-
 ### ✅ Aplikasi absensi berbasis face-recognition
 **Flutter • SQLite • Provider**
 
