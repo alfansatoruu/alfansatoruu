@@ -127,9 +127,9 @@ Aplikasi manajemen tugas dengan fitur drag & drop, reminder, dan sinkronisasi cl
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF" alt="GitHub Streak" />
-</div>
+</div> -->
 
 ---
 
